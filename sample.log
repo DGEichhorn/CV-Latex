@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  27 AUG 2025 13:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  27 AUG 2025 14:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1705,9 +1705,9 @@ No file sample.bbl.
 Package biblatex Info: Reference section=0 on input line 97.
 Package biblatex Info: Reference segment=0 on input line 97.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 137.
+(Font)              scaled to size 24.88pt on input line 135.
 LaTeX Font Info:    Trying to load font information for T1+RobotoSlab-TLF on in
-put line 137.
+put line 135.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/roboto\t1robotoslab-tlf
 .fd
@@ -1715,131 +1715,123 @@ File: T1RobotoSlab-TLF.fd 2019/12/11 (autoinst) Font definitions for T1/RobotoS
 lab-TLF.
 )
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/m/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 137.
+(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 135.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 137.
+(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 135.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 137.
+(Font)              scaled to size 12.0pt on input line 135.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 137.
+(Font)              scaled to size 12.0pt on input line 135.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 137.
+(Font)              scaled to size 8.0pt on input line 135.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 137.
+nput line 135.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree0.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 137.
+nput line 135.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 137.
+nput line 135.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+simpleiconsonethree o
-n input line 137.
-
-(C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/simpleicons\usimpleicon
-sonethree.fd
-File: usimpleiconsonethree.fd 2025/08/01 Font definitions for U/simpleiconsonet
-hree.
-)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 137.
+ input line 135.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 137.
+n input line 135.
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on
- input line 137.
+ input line 135.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mebrands1.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <8> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead o
-n input line 137.
+n input line 135.
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 137.
+(Font)              <7> on input line 135.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 137.
-<Globe_High.png, id=23, 803.0pt x 803.0pt>
+(Font)              <5> on input line 135.
+<Globe_High.png, id=20, 803.0pt x 803.0pt>
 File: Globe_High.png Graphic file (type png)
 <use Globe_High.png>
-Package pdftex.def Info: Globe_High.png  used on input line 137.
+Package pdftex.def Info: Globe_High.png  used on input line 135.
 (pdftex.def)             Requested size: 802.99805pt x 802.99805pt.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 147.
+(Font)              scaled to size 17.28pt on input line 145.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/m/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 147.
+(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 145.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 147.
+(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 145.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 149.
+(Font)              scaled to size 10.0pt on input line 147.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 149.
+(Font)              scaled to size 9.0pt on input line 147.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 151.
+ine 150.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/lato\ts1lato-tlf.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 151.
+(Font)              scaled to size 9.0pt on input line 150.
 
-Overfull \hbox (25.22156pt too wide) in paragraph at lines 188--188
+Overfull \hbox (25.22156pt too wide) in paragraph at lines 187--187
  [][] 
  []
 
 
-Package biblatex Warning: Type 'book' not found on input line 207.
+Package biblatex Warning: Type 'book' not found on input line 206.
 
 
-LaTeX Warning: Empty bibliography on input line 207.
+LaTeX Warning: Empty bibliography on input line 206.
 
 
-Package biblatex Warning: Type 'article' not found on input line 211.
+Package biblatex Warning: Type 'article' not found on input line 210.
 
 
-LaTeX Warning: Empty bibliography on input line 211.
+LaTeX Warning: Empty bibliography on input line 210.
 
 
-Package biblatex Warning: Type 'inproceedings' not found on input line 215.
+Package biblatex Warning: Type 'inproceedings' not found on input line 214.
 
 
-LaTeX Warning: Empty bibliography on input line 215.
+LaTeX Warning: Empty bibliography on input line 214.
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 223.
+(Font)              scaled to size 10.0pt on input line 222.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 223.
+(Font)              scaled to size 12.0pt on input line 222.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree3.fd)
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 229--229
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 228--228
 []|[]| 
  []
 
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 233--233
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 232--232
 []|[]| 
  []
 
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 237--237
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 236--236
 []|[]| 
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 286.
+(Font)              scaled to size 9.0pt on input line 285.
 [1
 
 {C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_j2bk2
@@ -1848,12 +1840,11 @@ dn.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesom
 e5/fa5free0.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/f
 ontawesome5/fa5free2.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/en
 c/dvips/fontawesome5/fa5free1.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX
-/fonts/enc/dvips/simpleicons/simpleiconsonethree.enc}{C:/Users/domin/AppData/Lo
-cal/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/domin
-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{C:/
-Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc}{C:
-/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free
-3.enc} <./Globe_High.png (PNG copy)>]
+/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/domin/AppData/Local/Prog
+rams/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{C:/Users/domin/AppData
+/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc}{C:/Users/domin/AppDat
+a/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free3.enc} <./Globe_Hig
+h.png (PNG copy)>]
 
 [2] (sample.aux)
  ***********
@@ -1876,11 +1867,11 @@ Package logreq Info: Writing requests to 'sample.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43875 strings out of 468133
- 888485 string characters out of 5430719
+ 43855 strings out of 468133
+ 887916 string characters out of 5430719
  1633102 words of memory out of 5000000
- 71834 multiletter control sequences out of 15000+600000
- 918305 words of font info for 82 fonts, out of 8000000 for 9000
+ 71819 multiletter control sequences out of 15000+600000
+ 918020 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,10n,121p,1185b,3491s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5
@@ -1891,11 +1882,10 @@ id.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/
 Lato-Bold.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type1/typolan
 d/lato/Lato-Italic.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type
 1/typoland/lato/Lato-Regular.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/
-fonts/type1/google/roboto/RobotoSlab-Bold.pfb><C:/Users/domin/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/simpleicons/SimpleIcons.pfb>
-Output written on sample.pdf (2 pages, 260649 bytes).
+fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
+Output written on sample.pdf (2 pages, 249988 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
+ 92 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  50 words of extra memory for PDF output out of 10000 (max. 10000000)
 
