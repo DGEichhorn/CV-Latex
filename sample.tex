@@ -98,8 +98,8 @@
 \name{Dominik G. Eichhorn}
 \tagline{Your Position or Tagline HERE}
 %% You can add multiple photos on the left or right
-\photoR{2.8cm}{Globe_High}
-% \photoL{2.5cm}{Yacht_High,Suitcase_High}
+%\photoR{2.8cm}{Globe_High}
+\photoL{2.5cm}{Yacht_High,Suitcase_High}
 
 \personalinfo{%
   % Not all of these are required!
@@ -137,91 +137,71 @@
 % \AtBeginEnvironment{itemize}{\small}
 
 %% Set the left/right column width ratio to 6:4.
-\columnratio{0.6}
+\columnratio{0.4}
 
 % Start a 2-column paracol. Both the left and right columns will automatically
 % break across pages if things get too long.
 \begin{paracol}{2}
-\cvsection{Experience}
-
-\cvevent{Job Title 1}{Company 1}{Month 20XX -- Ongoing}{Location}
-Bla bla blub
-\begin{itemize}
-\item Job description 1
-\item Job description 2
-\end{itemize}
-
-\divider
-
-\cvevent{Job Title 2}{Company 2}{Month 20XX -- Ongoing}{Location}
-\begin{itemize}
-\item Job description 1
-\item Job description 2
-\end{itemize}
-
-\cvsection{Projects}
-
-\cvevent{Project 1}{Funding agency/institution}{}{}
-\begin{itemize}
-\item Details
-\end{itemize}
-
-\divider
-
-\cvevent{Project 2}{Funding agency/institution}{Project duration}{}
-A short abstract would also work.
-
-\medskip
-
-\cvsection{A Day of My Life}
-
-% Adapted from @Jake's answer from http://tex.stackexchange.com/a/82729/226
-% \wheelchart{outer radius}{inner radius}{
-% comma-separated list of value/text width/color/detail}
-\wheelchart{1.5cm}{0.5cm}{%
-  6/8em/accent!30/{Sleep,\\beautiful sleep},
-  3/8em/accent!40/Hopeful novelist by night,
-  8/8em/accent!60/Daytime job,
-  2/10em/accent/Sports and relaxation,
-  5/6em/accent!20/Spending time with family
-}
-
-% use ONLY \newpage if you want to force a page break for
-% ONLY the current column
-\newpage
-
-\cvsection{Publications}
-
-%% Specify your last name(s) and first name(s) as given in the .bib to automatically bold your own name in the publications list.
-%% One caveat: You need to write \bibnamedelima where there's a space in your name for this to work properly; or write \bibnamedelimi if you use initials in the .bib
-%% You can specify multiple names, especially if you have changed your name or if you need to highlight multiple authors.
-\mynames{Lim/Lian\bibnamedelima Tze,
-  Wong/Lian\bibnamedelima Tze,
-  Lim/Tracy,
-  Lim/L.\bibnamedelimi T.}
-%% MAKE SURE THERE IS NO SPACE AFTER THE FINAL NAME IN YOUR \mynames LIST
-
-\nocite{*}
-
-\printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=book]
-
-\divider
-
-\printbibliography[heading=pubtype,title={\printinfo{\faFile*[regular]}{Journal Articles}},type=article]
-
-\divider
-
-\printbibliography[heading=pubtype,title={\printinfo{\faUsers}{Conference Proceedings}},type=inproceedings]
-
-%% Switch to the right column. This will now automatically move to the second
-%% page if the content is too long.
-\switchcolumn
 
 \cvsection{My Life Philosophy}
 
 \begin{quote}
 ``Something smart or heartfelt, preferably in one sentence.''
 \end{quote}
+
+\cvsection{Programming}
+
+\cvtag{R}
+\cvtag{Python}
+\cvtag{SQL}
+
+%\cvskill{R}{5}
+%\divider
+%
+%\cvskill{Python}{3.5}
+%\divider
+%
+%\cvskill{SQL}{2}
+
+\medskip
+
+\cvsection{Certificates (Sel.)}
+
+\cvevent{Machine Learning Specialization}{Coursera: DeepLearning.ai}{}{}
+
+%\divider
+
+\cvevent{Neural Networks and Deep Learning}{Coursera: DeepLearning.ai}{}{}
+
+%\divider
+
+\cvevent{Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization}{Coursera: DeepLearning.ai}{}{}
+
+%\divider
+
+\cvevent{Practical Time Series Analysis}{Coursera: State University of New York}{}{}
+
+%\divider
+
+\cvevent{Survival Analysis in R}{Coursera: Imperial College London}{}{}
+
+
+\cvsection{Languages}
+
+\cvskill{English}{5}
+\divider
+
+\cvskill{Spanish}{4}
+\divider
+
+\cvskill{German}{3.5} %% Supports X.5 values.
+
+%% Yeah I didn't spend too much time making all the
+%% spacing consistent... sorry. Use \smallskip, \medskip,
+%% \bigskip, \vspace etc to make adjustments.
+\medskip
+
+% \divider
 
 \cvsection{Most Proud of}
 
@@ -249,45 +229,6 @@ A short abstract would also work.
 \cvtag{Embedded Systems}\\
 \cvtag{Statistical Analysis}
 
-\cvsection{Languages}
-
-\cvskill{English}{5}
-\divider
-
-\cvskill{Spanish}{4}
-\divider
-
-\cvskill{German}{3.5} %% Supports X.5 values.
-
-%% Yeah I didn't spend too much time making all the
-%% spacing consistent... sorry. Use \smallskip, \medskip,
-%% \bigskip, \vspace etc to make adjustments.
-\medskip
-
-\cvsection{Education}
-
-\cvevent{Ph.D.\ in Your Discipline}{Your University}{Sept 2002 -- June 2006}{}
-Thesis title: Wonderful Research
-
-\divider
-
-\cvevent{M.Sc.\ Management \& Technology}{Technical University Munich}{Sep 2019 -- Apr 2022}{}
-Major: Finance, Minor: Computer Science
-
-\divider
-
-\cvevent{Exchange Semester}{Université Libre de Bruxelles}{Sep 2020 -- Jan 2021}{}
-
-\divider
-
-\cvevent{B.Sc.\ Mathematics}{Technical University Munich}{Oct 2015 -- }{}
-Specialization: Statistics
-
-\divider
-
-\cvevent{B.Sc.\ Economics \& Business}{Goethe University Frankfurt a.M.}{Oct 2012 -- }{}
-
-% \divider
 
 \cvsection{Referees}
 
@@ -299,6 +240,103 @@ Specialization: Statistics
 
 \cvref{Prof.\ Gamma Delta}{Institute}{g.delta@university.edu}
 {Address Line 1\\Address Line 2}
+
+%% Switch to the right column. This will now automatically move to the second
+%% page if the content is too long.
+\switchcolumn
+
+\cvsection{Education}
+
+\cvevent{Ph.D.\ in Statistics}{University of the Bundeswehr Munich}{May 2022 -- Ongoing}{}
+
+\divider
+
+\cveventgrade{M.Sc.\ Management \& Technology}{Grade: 1.1}{Technical University Munich}{Sep 2019 -- Apr 2022}{}
+Major: Finance, Minor: Computer Science
+
+\divider
+
+\cveventgrade{Exchange Semester}{}{Université Libre de Bruxelles}{}{Sep 2020 -- Jan 2021}{}
+
+\divider
+
+\cveventgrade{B.Sc.\ Mathematics}{Grade: 2.0}{Technical University Munich}{Oct 2015 -- }{}
+Specialization: Statistics
+
+\divider
+
+\cveventgrade{B.Sc.\ Economics \& Business}{Grade: 1.7}{Goethe University Frankfurt a.M.}{Oct 2012 -- }{}
+
+\cvsection{Industry Experience}
+
+\cvevent{Job Title 1}{Company 1}{Month 20XX -- Ongoing}{Location}
+Bla bla blub
+\begin{itemize}
+\item Job description 1
+\item Job description 2
+\end{itemize}
+
+\divider
+
+\cvevent{Job Title 2}{Company 2}{Month 20XX -- Ongoing}{Location}
+\begin{itemize}
+\item Job description 1
+\item Job description 2
+\end{itemize}
+
+\cvsection{Academic Experience}
+
+\cvevent{Project 1}{Funding agency/institution}{}{}
+\begin{itemize}
+\item Details
+\end{itemize}
+
+\divider
+
+\cvevent{Project 2}{Funding agency/institution}{Project duration}{}
+A short abstract would also work.
+
+\medskip
+
+%\cvsection{A Day of My Life}
+%
+%% Adapted from @Jake's answer from http://tex.stackexchange.com/a/82729/226
+%% \wheelchart{outer radius}{inner radius}{
+%% comma-separated list of value/text width/color/detail}
+%\wheelchart{1.5cm}{0.5cm}{%
+%  6/8em/accent!30/{Sleep,\\beautiful sleep},
+%  3/8em/accent!40/Hopeful novelist by night,
+%  8/8em/accent!60/Daytime job,
+%  2/10em/accent/Sports and relaxation,
+%  5/6em/accent!20/Spending time with family
+%}
+
+% use ONLY \newpage if you want to force a page break for
+% ONLY the current column
+\newpage
+
+\cvsection{Publications}
+
+%% Specify your last name(s) and first name(s) as given in the .bib to automatically bold your own name in the publications list.
+%% One caveat: You need to write \bibnamedelima where there's a space in your name for this to work properly; or write \bibnamedelimi if you use initials in the .bib
+%% You can specify multiple names, especially if you have changed your name or if you need to highlight multiple authors.
+\mynames{Lim/Lian\bibnamedelima Tze,
+  Wong/Lian\bibnamedelima Tze,
+  Lim/Tracy,
+  Lim/L.\bibnamedelimi T.}
+%% MAKE SURE THERE IS NO SPACE AFTER THE FINAL NAME IN YOUR \mynames LIST
+
+\nocite{*}
+
+\printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=book]
+
+\divider
+
+\printbibliography[heading=pubtype,title={\printinfo{\faFile*[regular]}{Journal Articles}},type=article]
+
+\divider
+
+\printbibliography[heading=pubtype,title={\printinfo{\faUsers}{Conference Proceedings}},type=inproceedings]
 
 
 \end{paracol}

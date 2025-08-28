@@ -132,7 +132,7 @@
 \RequirePackage{changepage}
 
 \setlength{\parindent}{0pt}
-\newcommand{\divider}{\textcolor{body!30}{\hdashrule{\linewidth}{0.6pt}{0.5ex}}\medskip}
+\newcommand{\divider}{\textcolor{body!30}{\hdashrule{\linewidth}{0.6pt}{0.5ex}}\smallskip}
 
 \newenvironment{fullwidth}{%
   \begin{adjustwidth}{}{\dimexpr-\marginparwidth-\marginparsep\relax}}
@@ -286,8 +286,8 @@
 
 \newcommand{\makecvheader}{%
   \begingroup
-    \altacv@left@photos\hfill%
-    \begin{minipage}{\dimexpr\linewidth-\altacv@photos@width}%
+    \hspace{2em}\altacv@left@photos\hspace{6em}\hfill%
+    \begin{minipage}{\dimexpr\linewidth-\altacv@photos@width-8em}%
     \raggedright%
     {\namefont\color{name}\MakeUppercase{\@name}\par}
     \medskip
@@ -331,8 +331,37 @@
       {\BeginAccSupp{method=pdfstringdef,ActualText={\locationname:}}\cvLocationMarker\EndAccSupp{}%
         ~#4}%
     }}\par
-  \medskip\normalsize
+  \smallskip\normalsize
 }
+
+\newcommand{\cveventgrade}[5]{%
+  % First line: title (#1) left, grade (#2) right
+  \noindent
+  \makebox[\linewidth]{%
+    {\large\color{emphasis}#1}%
+    \hfill
+    {\small\color{emphasis}#2}%
+  }%
+  \par
+  \smallskip\normalsize
+  % Subtitle (#3)
+  \ifstrequal{#3}{}{}{% 
+    \textbf{\color{accent}#3}\par
+    \smallskip}%
+  % Date (#4)
+  \ifstrequal{#4}{}{}{%
+    {\small\makebox[0.5\linewidth][l]{%
+      \BeginAccSupp{method=pdfstringdef,ActualText={\datename:}}%
+      \cvDateMarker\EndAccSupp{}~#4}}}%
+  % Location (#5)
+  \ifstrequal{#5}{}{}{%
+    {\small\makebox[0.5\linewidth][l]{%
+      \BeginAccSupp{method=pdfstringdef,ActualText={\locationname:}}%
+      \cvLocationMarker\EndAccSupp{}~#5}}}%
+  \par
+  \smallskip\normalsize
+}
+
 
 % v1.7: adds accsupp for the icon as well
 \newcommand{\cvachievement}[3]{%
