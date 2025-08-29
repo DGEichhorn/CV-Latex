@@ -308,6 +308,13 @@
   {\color{headingrule}\rule{\linewidth}{2pt}\par}\medskip
 }
 
+\newcommand{\cvsectionmix}[2][]{%
+  \nointerlineskip\bigskip%  %% bugfix in v1.6.2
+  \ifstrequal{#1}{}{}{\marginpar{\vspace*{\dimexpr1pt-\baselineskip}\raggedright\input{#1}}}%
+  {\color{heading}\cvsectionfont{#2}}\\[-1ex]%
+  {\color{headingrule}\rule{\linewidth}{2pt}\par}\medskip
+}
+
 \newcommand{\cvsubsection}[1]{%
   \smallskip%
   {\color{subheading}\cvsubsectionfont{#1}\par}\medskip
@@ -359,6 +366,25 @@
       \BeginAccSupp{method=pdfstringdef,ActualText={\locationname:}}%
       \cvLocationMarker\EndAccSupp{}~#5}}}%
   \par
+  \smallskip\normalsize
+}
+
+\newcommand{\cveventjob}[4]{%
+  {\large\textbf{\color{accent}#1}\par}
+  \smallskip\normalsize
+  \ifstrequal{#2}{}{}{
+  \textbf{\color{accent}#2}\par
+  \smallskip}
+  \ifstrequal{#3}{}{}{%
+    {\small\makebox[0.5\linewidth][l]%
+      {\BeginAccSupp{method=pdfstringdef,ActualText={\datename:}}\cvDateMarker\EndAccSupp{}%
+      ~#3}%
+    }}%
+  \ifstrequal{#4}{}{}{%
+    {\small\makebox[0.5\linewidth][l]%
+      {\BeginAccSupp{method=pdfstringdef,ActualText={\locationname:}}\cvLocationMarker\EndAccSupp{}%
+        ~#4}%
+    }}\par
   \smallskip\normalsize
 }
 
