@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  29 AUG 2025 19:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  30 AUG 2025 00:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1280,10 +1280,17 @@ ty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count331
 \cp@tempcnt=\count332
+) (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (
+C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count333
+\xs_countb=\count334
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
 \altacv@photos@width=\skip57
 \altacv@photo@diam@left=\skip58
 \altacv@photo@diam@right=\skip59
+\cvskillwidth=\skip60
  (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
 Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
 \AP@output=\toks43
@@ -1291,23 +1298,23 @@ Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
 \AP@footins=\box79
 )) (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/paracol\paracol.sty
 Package: paracol 2025/07/14 1.37 typeset columns in parallel
-\pcol@currcol=\count333
-\pcol@nextcol=\count334
-\pcol@ncol=\count335
-\pcol@ncolleft=\count336
-\pcol@page=\count337
-\pcol@basepage=\count338
-\pcol@toppage=\count339
-\pcol@footnotebase=\count340
-\pcol@nfootnotes=\count341
-\pcol@mcid=\count342
+\pcol@currcol=\count335
+\pcol@nextcol=\count336
+\pcol@ncol=\count337
+\pcol@ncolleft=\count338
+\pcol@page=\count339
+\pcol@basepage=\count340
+\pcol@toppage=\count341
+\pcol@footnotebase=\count342
+\pcol@nfootnotes=\count343
+\pcol@mcid=\count344
 \pcol@prevdepth=\dimen285
 \pcol@colht=\dimen286
 \pcol@textfloatsep=\dimen287
 \pcol@lrmargin=\dimen288
 \pagerim=\dimen289
-\pcol@topskip=\skip60
-\belowfootnoteskip=\skip61
+\pcol@topskip=\skip61
+\belowfootnoteskip=\skip62
 \pcol@topfnotes=\box80
 \pcol@prespan=\box81
 \pcol@rightpage=\box82
@@ -1316,7 +1323,8 @@ Package: paracol 2025/07/14 1.37 typeset columns in parallel
 \pcol@tempboxb=\box85
 \pcol@colorins=\insert252
 \pcol@everyvbox=\toks44
-) (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/roboto\roboto.sty
+)
+(C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/roboto\roboto.sty
 Package: roboto 2022/09/10 (Bob Tennent) Supports Roboto fonts for all LaTeX en
 gines.
 
@@ -1342,68 +1350,68 @@ Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count343
+\lrq@indent=\count345
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count344
-\c@listtotal=\count345
-\c@listcount=\count346
-\c@liststart=\count347
-\c@liststop=\count348
-\c@citecount=\count349
-\c@citetotal=\count350
-\c@multicitecount=\count351
-\c@multicitetotal=\count352
-\c@instcount=\count353
-\c@maxnames=\count354
-\c@minnames=\count355
-\c@maxitems=\count356
-\c@minitems=\count357
-\c@citecounter=\count358
-\c@maxcitecounter=\count359
-\c@savedcitecounter=\count360
-\c@uniquelist=\count361
-\c@uniquename=\count362
-\c@refsection=\count363
-\c@refsegment=\count364
-\c@maxextratitle=\count365
-\c@maxextratitleyear=\count366
-\c@maxextraname=\count367
-\c@maxextradate=\count368
-\c@maxextraalpha=\count369
-\c@abbrvpenalty=\count370
-\c@highnamepenalty=\count371
-\c@lownamepenalty=\count372
-\c@maxparens=\count373
-\c@parenlevel=\count374
-\blx@tempcnta=\count375
-\blx@tempcntb=\count376
-\blx@tempcntc=\count377
-\c@blx@maxsection=\count378
-\blx@maxsegment@0=\count379
-\blx@notetype=\count380
-\blx@parenlevel@text=\count381
-\blx@parenlevel@foot=\count382
-\blx@sectionciteorder@0=\count383
-\blx@sectionciteorderinternal@0=\count384
-\blx@entrysetcounter=\count385
-\blx@biblioinstance=\count386
-\labelnumberwidth=\skip62
-\labelalphawidth=\skip63
-\biblabelsep=\skip64
-\bibitemsep=\skip65
-\bibnamesep=\skip66
-\bibinitsep=\skip67
-\bibparsep=\skip68
-\bibhang=\skip69
+\c@tabx@nest=\count346
+\c@listtotal=\count347
+\c@listcount=\count348
+\c@liststart=\count349
+\c@liststop=\count350
+\c@citecount=\count351
+\c@citetotal=\count352
+\c@multicitecount=\count353
+\c@multicitetotal=\count354
+\c@instcount=\count355
+\c@maxnames=\count356
+\c@minnames=\count357
+\c@maxitems=\count358
+\c@minitems=\count359
+\c@citecounter=\count360
+\c@maxcitecounter=\count361
+\c@savedcitecounter=\count362
+\c@uniquelist=\count363
+\c@uniquename=\count364
+\c@refsection=\count365
+\c@refsegment=\count366
+\c@maxextratitle=\count367
+\c@maxextratitleyear=\count368
+\c@maxextraname=\count369
+\c@maxextradate=\count370
+\c@maxextraalpha=\count371
+\c@abbrvpenalty=\count372
+\c@highnamepenalty=\count373
+\c@lownamepenalty=\count374
+\c@maxparens=\count375
+\c@parenlevel=\count376
+\blx@tempcnta=\count377
+\blx@tempcntb=\count378
+\blx@tempcntc=\count379
+\c@blx@maxsection=\count380
+\blx@maxsegment@0=\count381
+\blx@notetype=\count382
+\blx@parenlevel@text=\count383
+\blx@parenlevel@foot=\count384
+\blx@sectionciteorder@0=\count385
+\blx@sectionciteorderinternal@0=\count386
+\blx@entrysetcounter=\count387
+\blx@biblioinstance=\count388
+\labelnumberwidth=\skip63
+\labelalphawidth=\skip64
+\biblabelsep=\skip65
+\bibitemsep=\skip66
+\bibnamesep=\skip67
+\bibinitsep=\skip68
+\bibparsep=\skip69
+\bibhang=\skip70
 \blx@bcfin=\read5
 \blx@bcfout=\write5
 \blx@langwohyphens=\language79
-\c@mincomprange=\count387
-\c@maxcomprange=\count388
-\c@mincompwidth=\count389
+\c@mincomprange=\count389
+\c@maxcomprange=\count390
+\c@mincompwidth=\count391
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -1414,88 +1422,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count390
-\c@savedafterword=\count391
-\c@annotator=\count392
-\c@savedannotator=\count393
-\c@author=\count394
-\c@savedauthor=\count395
-\c@bookauthor=\count396
-\c@savedbookauthor=\count397
-\c@commentator=\count398
-\c@savedcommentator=\count399
-\c@editor=\count400
-\c@savededitor=\count401
-\c@editora=\count402
-\c@savededitora=\count403
-\c@editorb=\count404
-\c@savededitorb=\count405
-\c@editorc=\count406
-\c@savededitorc=\count407
-\c@foreword=\count408
-\c@savedforeword=\count409
-\c@holder=\count410
-\c@savedholder=\count411
-\c@introduction=\count412
-\c@savedintroduction=\count413
-\c@namea=\count414
-\c@savednamea=\count415
-\c@nameb=\count416
-\c@savednameb=\count417
-\c@namec=\count418
-\c@savednamec=\count419
-\c@translator=\count420
-\c@savedtranslator=\count421
-\c@shortauthor=\count422
-\c@savedshortauthor=\count423
-\c@shorteditor=\count424
-\c@savedshorteditor=\count425
-\c@labelname=\count426
-\c@savedlabelname=\count427
-\c@institution=\count428
-\c@savedinstitution=\count429
-\c@lista=\count430
-\c@savedlista=\count431
-\c@listb=\count432
-\c@savedlistb=\count433
-\c@listc=\count434
-\c@savedlistc=\count435
-\c@listd=\count436
-\c@savedlistd=\count437
-\c@liste=\count438
-\c@savedliste=\count439
-\c@listf=\count440
-\c@savedlistf=\count441
-\c@location=\count442
-\c@savedlocation=\count443
-\c@organization=\count444
-\c@savedorganization=\count445
-\c@origlocation=\count446
-\c@savedoriglocation=\count447
-\c@origpublisher=\count448
-\c@savedorigpublisher=\count449
-\c@publisher=\count450
-\c@savedpublisher=\count451
-\c@language=\count452
-\c@savedlanguage=\count453
-\c@origlanguage=\count454
-\c@savedoriglanguage=\count455
-\c@pageref=\count456
-\c@savedpageref=\count457
-\shorthandwidth=\skip70
-\shortjournalwidth=\skip71
-\shortserieswidth=\skip72
-\shorttitlewidth=\skip73
-\shortauthorwidth=\skip74
-\shorteditorwidth=\skip75
-\locallabelnumberwidth=\skip76
-\locallabelalphawidth=\skip77
-\localshorthandwidth=\skip78
-\localshortjournalwidth=\skip79
-\localshortserieswidth=\skip80
-\localshorttitlewidth=\skip81
-\localshortauthorwidth=\skip82
-\localshorteditorwidth=\skip83
+\c@afterword=\count392
+\c@savedafterword=\count393
+\c@annotator=\count394
+\c@savedannotator=\count395
+\c@author=\count396
+\c@savedauthor=\count397
+\c@bookauthor=\count398
+\c@savedbookauthor=\count399
+\c@commentator=\count400
+\c@savedcommentator=\count401
+\c@editor=\count402
+\c@savededitor=\count403
+\c@editora=\count404
+\c@savededitora=\count405
+\c@editorb=\count406
+\c@savededitorb=\count407
+\c@editorc=\count408
+\c@savededitorc=\count409
+\c@foreword=\count410
+\c@savedforeword=\count411
+\c@holder=\count412
+\c@savedholder=\count413
+\c@introduction=\count414
+\c@savedintroduction=\count415
+\c@namea=\count416
+\c@savednamea=\count417
+\c@nameb=\count418
+\c@savednameb=\count419
+\c@namec=\count420
+\c@savednamec=\count421
+\c@translator=\count422
+\c@savedtranslator=\count423
+\c@shortauthor=\count424
+\c@savedshortauthor=\count425
+\c@shorteditor=\count426
+\c@savedshorteditor=\count427
+\c@labelname=\count428
+\c@savedlabelname=\count429
+\c@institution=\count430
+\c@savedinstitution=\count431
+\c@lista=\count432
+\c@savedlista=\count433
+\c@listb=\count434
+\c@savedlistb=\count435
+\c@listc=\count436
+\c@savedlistc=\count437
+\c@listd=\count438
+\c@savedlistd=\count439
+\c@liste=\count440
+\c@savedliste=\count441
+\c@listf=\count442
+\c@savedlistf=\count443
+\c@location=\count444
+\c@savedlocation=\count445
+\c@organization=\count446
+\c@savedorganization=\count447
+\c@origlocation=\count448
+\c@savedoriglocation=\count449
+\c@origpublisher=\count450
+\c@savedorigpublisher=\count451
+\c@publisher=\count452
+\c@savedpublisher=\count453
+\c@language=\count454
+\c@savedlanguage=\count455
+\c@origlanguage=\count456
+\c@savedoriglanguage=\count457
+\c@pageref=\count458
+\c@savedpageref=\count459
+\shorthandwidth=\skip71
+\shortjournalwidth=\skip72
+\shortserieswidth=\skip73
+\shorttitlewidth=\skip74
+\shortauthorwidth=\skip75
+\shorteditorwidth=\skip76
+\locallabelnumberwidth=\skip77
+\locallabelalphawidth=\skip78
+\localshorthandwidth=\skip79
+\localshortjournalwidth=\skip80
+\localshortserieswidth=\skip81
+\localshorttitlewidth=\skip82
+\localshortauthorwidth=\skip83
+\localshorteditorwidth=\skip84
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -1506,19 +1514,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count458
-\c@textcitetotal=\count459
-\c@textcitemaxnames=\count460
-\c@biburlbigbreakpenalty=\count461
-\c@biburlbreakpenalty=\count462
-\c@biburlnumpenalty=\count463
-\c@biburlucpenalty=\count464
-\c@biburllcpenalty=\count465
+\c@textcitecount=\count460
+\c@textcitetotal=\count461
+\c@textcitemaxnames=\count462
+\c@biburlbigbreakpenalty=\count463
+\c@biburlbreakpenalty=\count464
+\c@biburlnumpenalty=\count465
+\c@biburlucpenalty=\count466
+\c@biburllcpenalty=\count467
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count466
+\c@smartand=\count468
 )
 Package biblatex Info: Trying to load bibliography style 'ieee'...
 Package biblatex Info: ... file 'ieee.bbx' found.
@@ -1543,8 +1551,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
 bx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count467
-\c@bbx:relatedtotal=\count468
+\c@bbx:relatedcount=\count469
+\c@bbx:relatedtotal=\count470
 ))))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
@@ -1587,8 +1595,8 @@ Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 ))
 OK AddToHook biblatex after works
 )
-\@quotelevel=\count469
-\@quotereset=\count470
+\@quotelevel=\count471
+\@quotereset=\count472
 LaTeX Font Info:    Trying to load font information for T1+lato-TLF on input li
 ne 97.
  (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/lato\t1lato-tlf.fd
@@ -1622,16 +1630,16 @@ LaTeX Font Info:    ... okay on input line 97.
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count471
+\scratchcounter=\count473
 \scratchdimen=\dimen290
 \scratchbox=\box86
-\nofMPsegments=\count472
-\nofMParguments=\count473
+\nofMPsegments=\count474
+\nofMParguments=\count475
 \everyMPshowfont=\toks45
-\MPscratchCnt=\count474
+\MPscratchCnt=\count476
 \MPscratchDim=\dimen291
-\MPnumerator=\count475
-\makeMPintoPDFobject=\count476
+\MPnumerator=\count477
+\makeMPintoPDFobject=\count478
 \everyMPtoPDFconversion=\toks46
 )
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -1684,8 +1692,8 @@ Package hyperref Info: Link coloring OFF on input line 97.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count477
-\c@mv@boldtabular=\count478
+\c@mv@tabular=\count479
+\c@mv@boldtabular=\count480
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -1779,31 +1787,31 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree3.fd)
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 236--236
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 215--215
 []|[]| 
  []
 
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 240--240
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 219--219
 []|[]| 
  []
 
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 244--244
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 223--223
 []|[]| 
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 253.
+(Font)              scaled to size 9.0pt on input line 255.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 253.
+(Font)              scaled to size 9.0pt on input line 255.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 305.
+ine 303.
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/lato\ts1lato-tlf.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 305.
+(Font)              scaled to size 9.0pt on input line 303.
 
 [1
 
@@ -1814,30 +1822,30 @@ e5/fa5free0.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/f
 ontawesome5/fa5free2.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/en
 c/dvips/fontawesome5/fa5free1.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX
 /fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/domin/AppData/Local/Prog
-rams/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc} <./Yacht_High.png (PNG copy)> <.
-/Suitcase_High.png (PNG copy)>]
+rams/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free3.enc}{C:/Users/domin/AppData/L
+ocal/Programs/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc} <./Yacht_High.png (PNG 
+copy)> <./Suitcase_High.png (PNG copy)>]
 
-Package biblatex Warning: Type 'book' not found on input line 397.
+Package biblatex Warning: Type 'book' not found on input line 393.
+
+
+LaTeX Warning: Empty bibliography on input line 393.
+
+
+Package biblatex Warning: Type 'article' not found on input line 397.
 
 
 LaTeX Warning: Empty bibliography on input line 397.
 
 
-Package biblatex Warning: Type 'article' not found on input line 401.
+Package biblatex Warning: Type 'inproceedings' not found on input line 401.
 
 
 LaTeX Warning: Empty bibliography on input line 401.
 
 
-Package biblatex Warning: Type 'inproceedings' not found on input line 405.
 
-
-LaTeX Warning: Empty bibliography on input line 405.
-
-
-
-[2{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa
-5free3.enc}] (sample.aux)
+[2] (sample.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
@@ -1858,13 +1866,13 @@ Package logreq Info: Writing requests to 'sample.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43566 strings out of 468133
- 881514 string characters out of 5430719
- 1637619 words of memory out of 5000000
- 71535 multiletter control sequences out of 15000+600000
- 917759 words of font info for 80 fonts, out of 8000000 for 9000
+ 43859 strings out of 468133
+ 885857 string characters out of 5430719
+ 1644642 words of memory out of 5000000
+ 71821 multiletter control sequences out of 15000+600000
+ 917451 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,10n,121p,1185b,2875s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,10n,121p,1185b,2888s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5
 /FontAwesome5Brands-Regular.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/domin/App
@@ -1874,7 +1882,7 @@ Lato-Bold.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type1/typolan
 d/lato/Lato-Italic.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type
 1/typoland/lato/Lato-Regular.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/
 fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on sample.pdf (2 pages, 217566 bytes).
+Output written on sample.pdf (2 pages, 223326 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)

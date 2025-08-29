@@ -131,6 +131,8 @@
 \RequirePackage{multirow,tabularx}
 \RequirePackage{changepage}
 
+\usepackage{xstring}
+
 \setlength{\parindent}{0pt}
 \newcommand{\divider}{\textcolor{body!30}{\hdashrule{\linewidth}{0.6pt}{0.5ex}}\smallskip}
 
@@ -413,6 +415,29 @@
      \clipbox*{{.5\width} -0.25ex {\width} {\totalheight}}{\color{body!30}\cvRatingMarker}}
     {\ifdimgreater{\x bp}{#2 bp}{\color{body!30}}{\color{accent}}\cvRatingMarker}%
   }\EndAccSupp{}\par%
+}
+
+
+\newlength{\cvskillwidth}
+\setlength{\cvskillwidth}{8em} % Breite des Ratings/Felds anpassen!
+
+\newcommand{\cvskillmixed}[2]{%
+  \textcolor{emphasis}{\textbf{#1}}\hfill
+  \IfInteger{#2}{%
+    % --- Zahl → Sterne/Balken wie cvskill ---
+    \BeginAccSupp{method=plain,ActualText={#2}}%
+    \foreach \x in {1,...,5}{%
+      \ifdimequal{\x pt - #2 pt}{0.5pt}%
+        {\clipbox*{0pt -0.25ex {.5\width} {\totalheight}}{\color{accent}\cvRatingMarker}%
+         \clipbox*{{.5\width} -0.25ex {\width} {\totalheight}}{\color{body!30}\cvRatingMarker}}%
+        {\ifdimgreater{\x bp}{#2 bp}{\color{body!30}}{\color{accent}}\cvRatingMarker}%
+    }%
+    \EndAccSupp{}%
+  }{%
+    % --- Text → Box anstelle der Sterne ---
+    \makebox[\cvskillwidth][l]{\textcolor{body}{#2}}%
+  }%
+  \par%
 }
 
 % Adapted from @Jake's answer at http://tex.stackexchange.com/a/82729/226
