@@ -419,7 +419,7 @@
 
 
 \newlength{\cvskillwidth}
-\setlength{\cvskillwidth}{8em} % Breite des Ratings/Felds anpassen!
+\setlength{\cvskillwidth}{9em} % Breite des Ratings/Felds anpassen!
 
 \newcommand{\cvskillmixed}[2]{%
   \textcolor{emphasis}{\textbf{#1}}\hfill
