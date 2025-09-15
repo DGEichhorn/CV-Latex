@@ -280,6 +280,32 @@
 }
 \let\photo\photoR
 
+
+% --- rectangular photos ---
+%\newcommand{\altacv@add@recphoto@left}[1]{%
+%  \appto{\altacv@left@photos}{%
+%    \@makearecphoto{\altacv@photo@width@left}{#1}\hspace{1ex}%
+%  }%
+%  \addtolength{\altacv@photos@width}{\altacv@photo@width@left}%
+%  \addtolength{\altacv@photos@width}{1ex}%
+%}
+%\newcommand{\altacv@add@recphoto@right}[1]{%
+%  \appto{\altacv@right@photos}{%
+%    \@makearecphoto{\altacv@photo@width@right}{#1}\hspace{1ex}%
+%  }%
+%  \addtolength{\altacv@photos@width}{\altacv@photo@width@right}%
+%  \addtolength{\altacv@photos@width}{1ex}%
+%}
+%\newcommand{\photoLrec}[2]{%
+%  \setlength{\altacv@photo@width@left}{#1}%
+%  \forcsvlist{\altacv@add@recphoto@left}{#2}%
+%}
+%\newcommand{\photoRrec}[2]{%
+%  \setlength{\altacv@photo@width@right}{#1}%
+%  \forcsvlist{\altacv@add@recphoto@right}{#2}%
+%}
+
+
 \newcommand{\namefont}{\Huge\bfseries}
 \newcommand{\taglinefont}{\large\bfseries}
 \newcommand{\personalinfofont}{\footnotesize\bfseries}
@@ -288,8 +314,8 @@
 
 \newcommand{\makecvheader}{%
   \begingroup
-    \hspace{2em}\altacv@left@photos\hspace{6em}\hfill%
-    \begin{minipage}{\dimexpr\linewidth-\altacv@photos@width-8em}%
+    \hspace{5.9em}\altacv@left@photos\hspace{9.1em}\hfill%
+    \begin{minipage}{\dimexpr\linewidth-\altacv@photos@width-15em}%
     \raggedright%
     {\namefont\color{name}\MakeUppercase{\@name}\par}
     \medskip

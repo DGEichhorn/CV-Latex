@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  10 SEP 2025 10:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  15 SEP 2025 15:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1712,22 +1712,17 @@ Package biblatex Info: ... file 'sample_german.bbl' not found.
 No file sample_german.bbl.
 Package biblatex Info: Reference section=0 on input line 97.
 Package biblatex Info: Reference segment=0 on input line 97.
-<Yacht_High.png, id=10, 803.0pt x 803.0pt>
-File: Yacht_High.png Graphic file (type png)
-<use Yacht_High.png>
-Package pdftex.def Info: Yacht_High.png  used on input line 135.
-(pdftex.def)             Requested size: 802.99805pt x 802.99805pt.
+<Bewerbungsfoto.png, id=10, 102.6234pt x 144.54pt>
+File: Bewerbungsfoto.png Graphic file (type png)
+<use Bewerbungsfoto.png>
+Package pdftex.def Info: Bewerbungsfoto.png  used on input line 135.
+(pdftex.def)             Requested size: 102.62314pt x 144.53963pt.
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <7> on input line 135.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 135.
-<Suitcase_High.png, id=15, 803.0pt x 803.0pt>
-File: Suitcase_High.png Graphic file (type png)
-<use Suitcase_High.png>
-Package pdftex.def Info: Suitcase_High.png  used on input line 135.
-(pdftex.def)             Requested size: 802.99805pt x 802.99805pt.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 24.88pt on input line 135.
 LaTeX Font Info:    Trying to load font information for T1+RobotoSlab-TLF on in
@@ -1797,26 +1792,25 @@ Overfull \hbox (1.59999pt too wide) in paragraph at lines 253--253
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 305.
+(Font)              scaled to size 9.0pt on input line 307.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 340.
+ine 343.
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/lato\ts1lato-tlf.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 340.
+(Font)              scaled to size 9.0pt on input line 343.
 
 [1
 
 {C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_j2bk2
-t.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_cl4k
-dn.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesom
-e5/fa5free0.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/f
+t.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome
+5/fa5free0.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/la
+to/a_cl4kdn.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/f
 ontawesome5/fa5free2.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/en
 c/dvips/fontawesome5/fa5free1.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX
 /fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/domin/AppData/Local/Prog
-rams/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc} <./Yacht_High.png (PNG copy)> <.
-/Suitcase_High.png (PNG copy)>]
+rams/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc} <./Bewerbungsfoto.png>]
 
 [2{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa
 5free3.enc}] (sample_german.aux)
@@ -1840,10 +1834,10 @@ Package logreq Info: Writing requests to 'sample_german.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43844 strings out of 468133
- 885639 string characters out of 5430719
- 1643624 words of memory out of 5000000
- 71807 multiletter control sequences out of 15000+600000
+ 43832 strings out of 468133
+ 885405 string characters out of 5430719
+ 1641629 words of memory out of 5000000
+ 71795 multiletter control sequences out of 15000+600000
  894684 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,10n,121p,1192b,2883s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1856,9 +1850,9 @@ Lato-Bold.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type1/typolan
 d/lato/Lato-Italic.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type
 1/typoland/lato/Lato-Regular.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/
 fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on sample_german.pdf (2 pages, 232481 bytes).
+Output written on sample_german.pdf (2 pages, 310749 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
- 55 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 50 words of extra memory for PDF output out of 10000 (max. 10000000)
 
