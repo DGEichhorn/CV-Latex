@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  16 SEP 2025 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  17 SEP 2025 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1792,14 +1792,14 @@ Overfull \hbox (1.59999pt too wide) in paragraph at lines 253--253
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 305.
+(Font)              scaled to size 9.0pt on input line 306.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 339.
+ine 341.
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/lato\ts1lato-tlf.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 339.
+(Font)              scaled to size 9.0pt on input line 341.
 
 [1
 
@@ -1812,22 +1812,22 @@ c/dvips/fontawesome5/fa5free1.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX
 /fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/domin/AppData/Local/Prog
 rams/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc} <./Bewerbungsfoto2.png>]
 
-Package biblatex Warning: Type 'book' not found on input line 429.
+Package biblatex Warning: Type 'book' not found on input line 439.
 
 
-LaTeX Warning: Empty bibliography on input line 429.
+LaTeX Warning: Empty bibliography on input line 439.
 
 
-Package biblatex Warning: Type 'article' not found on input line 433.
+Package biblatex Warning: Type 'article' not found on input line 443.
 
 
-LaTeX Warning: Empty bibliography on input line 433.
+LaTeX Warning: Empty bibliography on input line 443.
 
 
-Package biblatex Warning: Type 'inproceedings' not found on input line 437.
+Package biblatex Warning: Type 'inproceedings' not found on input line 447.
 
 
-LaTeX Warning: Empty bibliography on input line 437.
+LaTeX Warning: Empty bibliography on input line 447.
 
 
 
@@ -1859,7 +1859,7 @@ Here is how much of TeX's memory you used:
  71797 multiletter control sequences out of 15000+600000
  894684 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,10n,121p,1197b,2883s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,10n,121p,1197b,2886s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5
 /FontAwesome5Brands-Regular.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/domin/App
@@ -1869,7 +1869,7 @@ Lato-Bold.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type1/typolan
 d/lato/Lato-Italic.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type
 1/typoland/lato/Lato-Regular.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/
 fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on CV_DominikEichhorn.pdf (2 pages, 305845 bytes).
+Output written on CV_DominikEichhorn.pdf (2 pages, 306778 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)

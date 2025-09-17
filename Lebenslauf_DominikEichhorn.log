@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  16 SEP 2025 12:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  17 SEP 2025 16:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./sample_german.tex
-(sample_german.tex
+**./Lebenslauf_DominikEichhorn.tex
+(Lebenslauf_DominikEichhorn.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
 (altacv.cls
@@ -271,7 +271,8 @@ ofiles.tex))
 .tex) (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\8bit.def
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
 )
-** pdfx: No file sample_german.xmpdata . Metadata will be incomplete!
+** pdfx: No file Lebenslauf_DominikEichhorn.xmpdata . Metadata will be incomple
+te!
 <<sRGB.icc>>
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\8bit.def
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
@@ -1605,8 +1606,8 @@ File: T1lato-TLF.fd 2019/06/24 Font definitions for T1/lato-TLF.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 97.
 
-(sample_german.aux)
-\openout1 = `sample_german.aux'.
+(Lebenslauf_DominikEichhorn.aux)
+\openout1 = `Lebenslauf_DominikEichhorn.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
@@ -1653,9 +1654,9 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 97.
- (sample_german.out) (sample_german.out)
+ (Lebenslauf_DominikEichhorn.out) (Lebenslauf_DominikEichhorn.out)
 \@outlinefile=\write6
-\openout6 = `sample_german.out'.
+\openout6 = `Lebenslauf_DominikEichhorn.out'.
 
 
 *geometry* driver: auto-detecting
@@ -1704,12 +1705,12 @@ File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout5 = `sample_german.bcf'.
+\openout5 = `Lebenslauf_DominikEichhorn.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'sample_german.bbl' not found.
+Package biblatex Info: ... file 'Lebenslauf_DominikEichhorn.bbl' not found.
 
-No file sample_german.bbl.
+No file Lebenslauf_DominikEichhorn.bbl.
 Package biblatex Info: Reference section=0 on input line 97.
 Package biblatex Info: Reference segment=0 on input line 97.
 <Bewerbungsfoto2.png, id=10, 161.60374pt x 219.82124pt>
@@ -1792,14 +1793,14 @@ Overfull \hbox (1.59999pt too wide) in paragraph at lines 253--253
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 307.
+(Font)              scaled to size 9.0pt on input line 308.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 343.
+ine 344.
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/lato\ts1lato-tlf.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 343.
+(Font)              scaled to size 9.0pt on input line 344.
 
 [1
 
@@ -1813,34 +1814,26 @@ c/dvips/fontawesome5/fa5free1.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX
 rams/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc} <./Bewerbungsfoto2.png>]
 
 [2{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa
-5free3.enc}] (sample_german.aux)
+5free3.enc}] (Lebenslauf_DominikEichhorn.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-Package rerunfilecheck Info: File `sample_german.out' has not changed.
+Package rerunfilecheck Info: File `Lebenslauf_DominikEichhorn.out' has not chan
+ged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                sample_german
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'sample_german.run.xml'.
-\openout1 = `sample_german.run.xml'.
+Package logreq Info: Writing requests to 'Lebenslauf_DominikEichhorn.run.xml'.
+\openout1 = `Lebenslauf_DominikEichhorn.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43832 strings out of 468133
- 885416 string characters out of 5430719
- 1641629 words of memory out of 5000000
- 71795 multiletter control sequences out of 15000+600000
+ 43834 strings out of 468133
+ 885806 string characters out of 5430719
+ 1641694 words of memory out of 5000000
+ 71797 multiletter control sequences out of 15000+600000
  894684 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,10n,121p,1192b,2883s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,10n,121p,1205b,2886s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5
 /FontAwesome5Brands-Regular.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/domin/App
@@ -1850,7 +1843,7 @@ Lato-Bold.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type1/typolan
 d/lato/Lato-Italic.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type
 1/typoland/lato/Lato-Regular.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/
 fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on sample_german.pdf (2 pages, 313743 bytes).
+Output written on Lebenslauf_DominikEichhorn.pdf (2 pages, 314683 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
