@@ -24,6 +24,8 @@
 % The paracol package lets you typeset columns of text in parallel
 \usepackage{paracol}
 
+\usepackage{hyperref}
+
 % Change the font if you want to, depending on whether
 % you're using pdflatex or xelatex/lualatex
 % WHEN COMPILING WITH XELATEX PLEASE USE
@@ -233,13 +235,10 @@
 \cvevent{Survival Analysis in R}{Coursera: Imperial College London}{}{}
 
 
+\cvsection{Publications}
 
-%% Yeah I didn't spend too much time making all the
-%% spacing consistent... sorry. Use \smallskip, \medskip,
-%% \bigskip, \vspace etc to make adjustments.
-\medskip
-
-% \divider
+Hausenblas, P., \textbf{Eichhorn, D.}, Brieden, A., Soppert, M., Steinhardt, C. (2025). \textit{Improving network dynamic pricing policies through off- line reinforcement learning}. OR Spectrum.
+\url{https://link.springer.com/article/10.1007/s00291-025-00821-2}.
 
 \newpage
 
@@ -304,12 +303,12 @@
 \cvsection{Education}
 
 \cvevent{Ph.D.\ in Statistics}{University of the Bundeswehr Munich}{Since May 2022}{}
-Offline reinforcement learning, asymptotic statistical theory
+Offline Reinforcement Learning, Asymptotic Statistical Theory
 
 \divider
 
-\cveventgrade{M.Sc.\ Management \& Technology}{Grade: 1.1}{Technical University Munich}{Oct 2019 -- Apr 2022}{}
-Major: finance, minor: computer science
+\cveventgrade{M.Sc.\ Management \& Technology}{Grade: 1.2}{Technical University Munich}{Oct 2019 -- Apr 2022}{}
+Major: Finance, Minor: Computer Science
 
 \divider
 
@@ -339,7 +338,7 @@ Manually engineered a machine learning model in R for predictive maintenance and
 \cveventjob{Allianz SE -- Intern in ``Business Intelligence''}{}{Jun 2019 -- Aug 2019}{Munich}
 \begin{itemize}
 \item Built an automated competitor monitoring in R for car fleet insurances
-\item Performed targeted data analysis \& visualization in R for stakeholders \& senior management
+\item Performed targeted data analysis \& visualization in R for senior management and stakeholders
 \end{itemize}
 
 \divider
@@ -357,19 +356,21 @@ Supported the testing of the new internal credit portfolio model
 \cvsection{Academic Experience}
 
 \cvevent{Chair of Statistics}{University of the Bundeswehr Munich}{May 2022 -- Sep 2025}{}
-Research \& teaching assistant with the following activities:
+Research and teaching assistant with the following activities:
 \smallskip
 \begin{itemize}
 \item Conducted independent research within the scope of a doctoral programme
 \item Actively contributed to research projects at the chair
-\item Held exercise sessions for bachelor's \& master's courses in statistics \& data analytics
-\item Lead a team of student teaching assistants
+\item Had responsibility for the exercise track for bachelor's and master's courses in statistics \& data analytics and held the corresponding classes
+\item Led a team of student teaching assistants
 \item Supervised final theses, some of them in cooperation with CapGemini and Versicherungskammer Bayern
+\item Supervised seminars, some of them in cooperation with the Versicherungskammer Bayern at executive level
 \end{itemize}
 
 \divider
 
-\cvevent{Chair of Computational Molecular Medicine}{Technical University Munich}{Oct 2021 -- Apr 2022}{}
+%Chair of Computational Molecular Medicine
+\cvevent{Institute of Computer Science}{Technical University Munich}{Oct 2021 -- Apr 2022}{}
 Student teaching assistant for ``Data Analysis \& Visualization in R''
 
 \divider
@@ -391,6 +392,13 @@ Student research assistant
 
 \cvevent{Chair of Economic Development \& Integration}{Goethe University Frankfurt a.M.}{Mar 2014 -- Sep 2014}{}
 Student teaching assistant for ``Introduction to Economics''
+
+% Unterschrift
+\vspace{30pt}
+
+\includegraphics[scale=1.9]{Unterschrift_zugeschnitten.jpg}
+
+Ergolding, 18.09.2025
 
 
 
@@ -425,7 +433,7 @@ Student teaching assistant for ``Introduction to Economics''
 % ONLY the current column
 %\newpage
 
-\cvsection{Publications}
+%\cvsection{Publications}
 
 %% Specify your last name(s) and first name(s) as given in the .bib to automatically bold your own name in the publications list.
 %% One caveat: You need to write \bibnamedelima where there's a space in your name for this to work properly; or write \bibnamedelimi if you use initials in the .bib
@@ -434,17 +442,17 @@ Student teaching assistant for ``Introduction to Economics''
   Eichhorn/D.\bibnamedelimi G.}
 %% MAKE SURE THERE IS NO SPACE AFTER THE FINAL NAME IN YOUR \mynames LIST
 
-\nocite{*}
+%\nocite{*}
 
-\printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=book]
+%\printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=book]
 
-\divider
+%\divider
 
-\printbibliography[heading=pubtype,title={\printinfo{\faFile*[regular]}{Journal Articles}},type=article]
+%\printbibliography[heading=pubtype,title={\printinfo{\faFile*[regular]}{Journal Articles}},type=article]
 
-\divider
+%\divider
 
-\printbibliography[heading=pubtype,title={\printinfo{\faUsers}{Conference Proceedings}},type=inproceedings]
+%\printbibliography[heading=pubtype,title={\printinfo{\faUsers}{Conference Proceedings}},type=inproceedings]
 
 
 \end{paracol}

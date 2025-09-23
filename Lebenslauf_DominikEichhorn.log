@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  17 SEP 2025 16:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  23 SEP 2025 10:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1599,34 +1599,34 @@ OK AddToHook biblatex after works
 \@quotelevel=\count471
 \@quotereset=\count472
 LaTeX Font Info:    Trying to load font information for T1+lato-TLF on input li
-ne 97.
+ne 99.
  (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/lato\t1lato-tlf.fd
 File: T1lato-TLF.fd 2019/06/24 Font definitions for T1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 97.
+(Font)              scaled to size 10.0pt on input line 99.
 
 (Lebenslauf_DominikEichhorn.aux)
 \openout1 = `Lebenslauf_DominikEichhorn.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1653,7 +1653,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 97.
+Package hyperref Info: Link coloring OFF on input line 99.
  (Lebenslauf_DominikEichhorn.out) (Lebenslauf_DominikEichhorn.out)
 \@outlinefile=\write6
 \openout6 = `Lebenslauf_DominikEichhorn.out'.
@@ -1711,23 +1711,23 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Lebenslauf_DominikEichhorn.bbl' not found.
 
 No file Lebenslauf_DominikEichhorn.bbl.
-Package biblatex Info: Reference section=0 on input line 97.
-Package biblatex Info: Reference segment=0 on input line 97.
+Package biblatex Info: Reference section=0 on input line 99.
+Package biblatex Info: Reference segment=0 on input line 99.
 <Bewerbungsfoto2.png, id=10, 161.60374pt x 219.82124pt>
 File: Bewerbungsfoto2.png Graphic file (type png)
 <use Bewerbungsfoto2.png>
-Package pdftex.def Info: Bewerbungsfoto2.png  used on input line 135.
+Package pdftex.def Info: Bewerbungsfoto2.png  used on input line 137.
 (pdftex.def)             Requested size: 161.60335pt x 219.8207pt.
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 135.
+(Font)              <7> on input line 137.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 135.
+(Font)              <5> on input line 137.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 135.
+(Font)              scaled to size 24.88pt on input line 137.
 LaTeX Font Info:    Trying to load font information for T1+RobotoSlab-TLF on in
-put line 135.
+put line 137.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/roboto\t1robotoslab-tlf
 .fd
@@ -1735,51 +1735,51 @@ File: T1RobotoSlab-TLF.fd 2019/12/11 (autoinst) Font definitions for T1/RobotoS
 lab-TLF.
 )
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/m/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 135.
+(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 137.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 135.
+(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 137.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 135.
+(Font)              scaled to size 12.0pt on input line 137.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 135.
+(Font)              scaled to size 12.0pt on input line 137.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 135.
+(Font)              scaled to size 8.0pt on input line 137.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 135.
+nput line 137.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree0.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 135.
+nput line 137.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 135.
+nput line 137.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 135.
+ input line 137.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 135.
+n input line 137.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 146.
+(Font)              scaled to size 17.28pt on input line 148.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/m/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 146.
+(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 148.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 146.
+(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 148.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 153.
+(Font)              scaled to size 10.0pt on input line 155.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 153.
+(Font)              scaled to size 12.0pt on input line 155.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 217.
+(Font)              scaled to size 10.0pt on input line 219.
 
 (C:\Users\domin\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree3.fd)
@@ -1812,9 +1812,17 @@ ontawesome5/fa5free2.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/en
 c/dvips/fontawesome5/fa5free1.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX
 /fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/domin/AppData/Local/Prog
 rams/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc} <./Bewerbungsfoto2.png>]
+<Unterschrift_zugeschnitten.jpg, id=38, 102.1416pt x 36.135pt>
+File: Unterschrift_zugeschnitten.jpg Graphic file (type jpg)
+<use Unterschrift_zugeschnitten.jpg>
+Package pdftex.def Info: Unterschrift_zugeschnitten.jpg  used on input line 404
+.
+(pdftex.def)             Requested size: 194.06792pt x 68.65605pt.
+
 
 [2{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa
-5free3.enc}] (Lebenslauf_DominikEichhorn.aux)
+5free3.enc} <./Unterschrift_zugeschnitten.jpg>] (Lebenslauf_DominikEichhorn.aux
+)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
@@ -1827,11 +1835,11 @@ Package logreq Info: Writing requests to 'Lebenslauf_DominikEichhorn.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43834 strings out of 468133
- 885806 string characters out of 5430719
- 1641694 words of memory out of 5000000
- 71797 multiletter control sequences out of 15000+600000
- 894684 words of font info for 75 fonts, out of 8000000 for 9000
+ 43842 strings out of 468133
+ 886088 string characters out of 5430719
+ 1644694 words of memory out of 5000000
+ 71804 multiletter control sequences out of 15000+600000
+ 895132 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,10n,121p,1205b,2886s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5
@@ -1843,9 +1851,9 @@ Lato-Bold.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type1/typolan
 d/lato/Lato-Italic.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type
 1/typoland/lato/Lato-Regular.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/
 fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on Lebenslauf_DominikEichhorn.pdf (2 pages, 314683 bytes).
+Output written on Lebenslauf_DominikEichhorn.pdf (2 pages, 345226 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
+ 91 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
- 50 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 55 words of extra memory for PDF output out of 10000 (max. 10000000)
 
