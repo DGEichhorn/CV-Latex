@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  23 SEP 2025 10:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.27)  26 SEP 2025 16:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1712,11 +1712,11 @@ Package biblatex Info: ... file 'CV_DominikEichhorn.bbl' not found.
 No file CV_DominikEichhorn.bbl.
 Package biblatex Info: Reference section=0 on input line 99.
 Package biblatex Info: Reference segment=0 on input line 99.
-<Bewerbungsfoto2.png, id=10, 161.60374pt x 219.82124pt>
-File: Bewerbungsfoto2.png Graphic file (type png)
-<use Bewerbungsfoto2.png>
-Package pdftex.def Info: Bewerbungsfoto2.png  used on input line 137.
-(pdftex.def)             Requested size: 161.60335pt x 219.8207pt.
+<avatar.png, id=10, 924.45375pt x 924.45375pt>
+File: avatar.png Graphic file (type png)
+<use avatar.png>
+Package pdftex.def Info: avatar.png  used on input line 137.
+(pdftex.def)             Requested size: 924.45149pt x 924.45149pt.
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <7> on input line 137.
@@ -1810,7 +1810,7 @@ to/a_cl4kdn.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/f
 ontawesome5/fa5free2.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/en
 c/dvips/fontawesome5/fa5free1.enc}{C:/Users/domin/AppData/Local/Programs/MiKTeX
 /fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/domin/AppData/Local/Prog
-rams/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc} <./Bewerbungsfoto2.png>]
+rams/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc} <./avatar.png>]
 <Unterschrift_zugeschnitten.jpg, id=38, 102.1416pt x 36.135pt>
 File: Unterschrift_zugeschnitten.jpg Graphic file (type jpg)
 <use Unterschrift_zugeschnitten.jpg>
@@ -1842,7 +1842,7 @@ Package logreq Info: Writing requests to 'CV_DominikEichhorn.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  43842 strings out of 468133
- 885880 string characters out of 5430719
+ 885781 string characters out of 5430719
  1643654 words of memory out of 5000000
  71804 multiletter control sequences out of 15000+600000
  895132 words of font info for 76 fonts, out of 8000000 for 9000
@@ -1857,7 +1857,7 @@ Lato-Bold.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type1/typolan
 d/lato/Lato-Italic.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/fonts/type
 1/typoland/lato/Lato-Regular.pfb><C:/Users/domin/AppData/Local/Programs/MiKTeX/
 fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on CV_DominikEichhorn.pdf (2 pages, 336369 bytes).
+Output written on CV_DominikEichhorn.pdf (2 pages, 1244699 bytes).
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
