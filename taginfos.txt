@@ -1,0 +1,2 @@
+text: Calibri, 25, #f11919
+Pfeil: #f11919
